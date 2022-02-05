@@ -1,0 +1,44 @@
+.color-white{
+    color: white !important;
+}
+
+.border-radios{
+    border-radius: 5px;
+}
+.hospital-form{
+    margin-top: 15px;
+}
+.submit-btn{
+    background-color: #0d6efd !important;
+    opacity: 75%;
+    color: white !important;
+}
+.button{
+    width: 100%;
+    color: tomato;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.l-btn, .r-btn{
+    width: 100%;
+
+}
+.l-btn{
+    margin-right: 3px;
+}
+.r-btn{
+    margin-left: 3px;
+}
+.custom-dropdown{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+
+}
+
+.required-star::after{
+    content: '*';
+    color: red;
+}
