@@ -2,6 +2,11 @@
     color: white !important;
 }
 
+.option{
+    background-color: white;
+    color: black;
+}
+
 .border-radios{
     border-radius: 5px;
 }
